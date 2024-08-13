@@ -1,0 +1,11 @@
+Solução dissertativa
+
+1- Ler e armazenar o número que vai ser multiplicado por 9 - entrada
+
+2- Subtrair 1 do numero de entrata e armazenar como o primeiro digito - processamento
+
+3- Subtrair de 10 o número armazenado e guargar como segundo digito - processamento
+
+4- Fazer a o calculo (n1x10) + n2 e armazene como resultado final r - processamento
+
+5- Apresente o resultado final e encerre o programa
