@@ -1,0 +1,7 @@
+def main():
+    primeiro_nome = input("Digite seu primeiro nome: ")
+    sobrenome = input("Digite seu sobrenome: ")
+    print(f"Bem-vinda, {primeiro_nome} {sobrenome}!")
+
+if __name__ == "__main__":
+    main()
